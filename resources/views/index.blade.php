@@ -9,13 +9,13 @@
         @include ("partials.apropos")
 
         <hr class="m-0" />
+        @include ("partials.skills")
+
+        <hr class="m-0" />
         @include ("partials.experience")
 
         <hr class="m-0" />
         @include ("partials.education")
-
-        <hr class="m-0" />
-        @include ("partials.skills")
 
         <hr class="m-0" />
         @include ("partials.hobbies")
