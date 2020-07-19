@@ -21,7 +21,7 @@
 
     <meta property="og:title" content="Frédérick Tyteca" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://podmytube.com/" />
+    <meta property="og:url" content="https://www.tyteca.net/" />
 
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:site_name" content="Frédérick Tyteca" />

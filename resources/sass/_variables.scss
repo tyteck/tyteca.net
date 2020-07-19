@@ -9,7 +9,7 @@
     --green: #28a745;
     --teal: #20c997;
     --cyan: #17a2b8;
-    --white: #fff;
+    --white: rgb(12, 12, 12);
     --gray: #6c757d;
     --gray-dark: #343a40;
     --primary: #bd5d38;
@@ -32,3 +32,5 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
         "Liberation Mono", "Courier New", monospace;
 }
+
+$main-color: #17a2b8;

@@ -12,7 +12,7 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Compétences</a></li>
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Intérêts</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Hobbies</a></li>
         </ul>
     </div>
 </nav>
