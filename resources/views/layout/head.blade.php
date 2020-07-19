@@ -16,8 +16,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/pics/favicon-16x16.png" />
 
     <!-- Custom styles for this template -->
-    <link href="{{ asset('/css/app.css') }}" rel="stylesheet" />
-    <script src="{{ asset('/js/app.js') }}"></script>
+    <link href="{{ secure_asset('/css/app.css') }}" rel="stylesheet" />
+    <script src="{{ secure_asset('/js/app.js') }}"></script>
 
     <meta property="og:title" content="Frédérick Tyteca" />
     <meta property="og:type" content="website" />
