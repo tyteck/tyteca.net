@@ -9,20 +9,23 @@
             <a href="mailto:frederick@tyteca.net">frederick@tyteca.net</a>
         </div>
         <p class="lead mb-3">
-            Développeur PHP passionné, entrepreneur et père (comblé) d'une famille nombreuse.
+            Développeur, entrepreneur et père de famille nombreuse.
         </p>
         <p class="lead mb-3">
-            J'ai derrière moi un long parcours de développeur/chef de projet/lead technique avec énormément de projets pour de grands comptes comme
-            Médiamétrie, Orange, Airbus, Gamespot. Ce qui ne m'empêche pas de travailler sur des projets plus personnels comme Podmytube durant mon temps libre.
+            J'ai derrière moi un long parcours de développeur/chef de projet/lead technique avec énormément de projets
+            pour de grands comptes comme
+            Médiamétrie, Orange, Airbus, Gamespot. Ce qui ne m'empêche pas de travailler sur des projets plus personnels
+            comme Podmytube durant mon temps libre.
         </p>
         <p class="lead mb-3">
             Ce qui me motive ? Faire quelque chose d'utile tout en continuant d'apprendre et me former.
             En cela mon métier est certainement le meilleur du monde 😄️
         </p>
         <div class="social-icons">
-            <a class="social-icon" href="https://www.linkedin.com/in/ftyteca/?originalSubdomain=fr"><i class="fab fa-linkedin-in"></i></a>
-            <a class="social-icon" href="https://github.com/tyteck/"><i class="fab fa-github"></i></a>
             <a class="social-icon" href="https://twitter.com/ftyteca"><i class="fab fa-twitter"></i></a>
+            <a class="social-icon" href="https://www.linkedin.com/in/ftyteca/?originalSubdomain=fr"><i
+                    class="fab fa-linkedin-in"></i></a>
+            <a class="social-icon" href="https://github.com/tyteck/"><i class="fab fa-github"></i></a>
         </div>
     </div>
 </section>

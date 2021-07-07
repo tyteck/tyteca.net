@@ -8,14 +8,9 @@
                 <h3 class="mb-0">Développeur fullStack.</h3>
                 <div class="subheading mb-3">EngIT</div>
                 <p>
-                    <span class="badge badge-dark">Laravel 7</span>
-                    <span class="badge badge-dark">Php 7</span>
-                    <span class="badge badge-dark">PhpUnit</span>
-                    <span class="badge badge-dark">Elastic search</span>
-                    <span class="badge badge-dark">Percona</span>
-                    <span class="badge badge-dark">Docker</span>
-                    <span class="badge badge-dark">Linux</span>
-                    <span class="badge badge-dark">Git</span>
+                    @foreach ($badges['engit'] as $badge)
+                        <span class="badge badge-dark">{{ $badge }}</span>
+                    @endforeach
                 </p>
                 <p>Ecommerce platform redesign.</p>
             </div>
@@ -28,14 +23,9 @@
                 <h3 class="mb-0">Développeur Backend.</h3>
                 <div class="subheading mb-3">Micromania Gamestop</div>
                 <p>
-                    <span class="badge badge-dark">Php 5/Php 7</span>
-                    <span class="badge badge-dark">PhpUnit</span>
-                    <span class="badge badge-dark">Elastic search</span>
-                    <span class="badge badge-dark">Kibana</span>
-                    <span class="badge badge-dark">MySQL</span>
-                    <span class="badge badge-dark">Docker</span>
-                    <span class="badge badge-dark">Linux</span>
-                    <span class="badge badge-dark">Git</span>
+                    @foreach ($badges['micromania'] as $badge)
+                        <span class="badge badge-dark">{{ $badge }}</span>
+                    @endforeach
                 </p>
                 <ul>
                     <li>Containerization de la plateforme technique.</li>
@@ -53,11 +43,9 @@
                 <h3 class="mb-0">Développeur cloud/test.</h3>
                 <div class="subheading mb-3">Airbus defense &amp; space</div>
                 <p>
-                    <span class="badge badge-dark">Google Cloud</span>
-                    <span class="badge badge-dark">Bash</span>
-                    <span class="badge badge-dark">Python</span>
-                    <span class="badge badge-dark">Linux</span>
-                    <span class="badge badge-dark">Git</span>
+                    @foreach ($badges['airbus'] as $badge)
+                        <span class="badge badge-dark">{{ $badge }}</span>
+                    @endforeach
                 </p>
                 <ul>
                     <li>Automatisation des tests sur les différrentes plateformes cloud.</li>
@@ -72,12 +60,9 @@
                 <h3 class="mb-0">Développeur senior/Chef de projet</h3>
                 <div class="subheading mb-3">Orange</div>
                 <p>
-                    <span class="badge badge-dark">Php</span>
-                    <span class="badge badge-dark">PhpUnit</span>
-                    <span class="badge badge-dark">MySQL</span>
-                    <span class="badge badge-dark">Linux</span>
-                    <span class="badge badge-dark">Svn/Git</span>
-                    <span class="badge badge-dark">Apache</span>
+                    @foreach ($badges['orange'] as $badge)
+                        <span class="badge badge-dark">{{ $badge }}</span>
+                    @endforeach
                 </p>
                 <ul>
                     <li>Développeur Web sur différents sites internet du portail Orange.fr.</li>
