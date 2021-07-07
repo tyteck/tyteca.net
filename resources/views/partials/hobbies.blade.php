@@ -4,7 +4,7 @@
         <h2 class="mb-5">Hobbies</h2>
         <ul>
             <li>Fan de podcasts</li>
-
+            <li>World of Warcraft</li>
         </ul>
     </div>
 </section>
